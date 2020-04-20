@@ -4,7 +4,7 @@
 ### spring-boot Version  >= 2.1x
 
 
-> 为了测试方便,数据源连接定义在 `config.json` 文件中。 生产中则一般使用`spring-cloud-config`,进行管理
+> 为了方便测试,数据源连接定义在 `config.json` 文件中。 生产中则一般使用`spring-cloud-config`进行管理
 
 
 >1.首先正常启动项目
